@@ -1,0 +1,90 @@
+.li-bg {
+  margin: 10px;
+  border: 1px solid #686a6b;
+  border-radius: 5px;
+  display: flex;
+  padding: 10px;
+}
+
+.food-icons {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+
+.food-items-data-bg {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.dish_name {
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0px;
+}
+
+.rating-bg {
+  color: #72777a;
+  font-size: 18px;
+  margin: 0px;
+}
+
+.dish-description {
+  color: #8e9194;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.btn-vontainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #197030;
+  border-radius: 40px;
+  color: #ffffff;
+  font-size: 18px;
+  width: 170px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.minus-btn {
+  cursor: pointer;
+  margin: 30px;
+  background-color: transparent;
+  border: none;
+  color: #ffffff;
+}
+
+.plus-btn {
+  cursor: pointer;
+  margin-left: 30px;
+  background-color: transparent;
+  border: none;
+  color: #ffffff;
+}
+
+.not-available-text {
+  color: #c7222a;
+  font-size: 18px;
+}
+
+.calories-text {
+  color: #de8a14;
+  font-size: 18px;
+  align-self: center;
+  margin-right: 10px;
+  margin-left: auto;
+}
+
+.dish-img {
+  height: 100px;
+  width: 100px;
+  margin-left: auto;
+  border-radius: 5px;
+}
+
+.customizations-text {
+  color: #0c4ae8;
+}

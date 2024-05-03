@@ -1,0 +1,50 @@
+.resturant-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border-bottom: 3px solid #e1dfe6;
+}
+
+.resturant-name {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.card-bg {
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+  align-items: center;
+}
+
+.cart-img {
+  height: 30px;
+  width: 30px;
+}
+
+.ul-btns-list-bg {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  overflow: auto;
+  list-style-type: none;
+}
+
+.li-btns-bg {
+  margin-right: 40px;
+  color: #ffffff;
+}
+
+.selected-li-btns-bg {
+  margin-right: 40px;
+  color: #e8290c;
+  border-bottom: 2px solid #e8290c;
+}
+
+.btns-li {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
